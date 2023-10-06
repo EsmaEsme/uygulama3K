@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\bin\Debug\karardöngü3.U.exe.config
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\bin\Debug\karardöngü3.U.exe
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\bin\Debug\karardöngü3.U.pdb
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.Form1.resources
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.Properties.Resources.resources
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.csproj.GenerateResource.cache
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.exe
+C:\Users\User\source\repos\karardöngü3.U\karardöngü3.U\obj\Debug\karardöngü3.U.pdb
